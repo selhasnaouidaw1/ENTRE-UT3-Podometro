@@ -3,7 +3,7 @@
  * acerca de los pasos, distancia, ..... que una persona (hombre o mujer)
  * ha dado en una semana. 
  * 
- * @author    - pon aquí tu nombre - 
+ * @author    - Sara El Hasnaoui - 
  * 
  */
 public class Podometro {
